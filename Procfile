@@ -1,0 +1,1 @@
+web: gunicorn zappit.wsgi --log-file -
